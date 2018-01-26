@@ -7,6 +7,7 @@ We add projects as submodules because we want to keep a link to the up to date r
 
 ### How to add projects
 `git submodule add $(repository url) $(repo name)`
+
 `git submodule add https://github.com/elreydetoda/automated-kali automated-kali`
 
 ## Current Projects Structure
