@@ -3,10 +3,11 @@ This is the repository that members can be able to display their final products 
 
 You add personal projects per the year that they did the project and you add it as a submodule.
 
-We add them as submodules because we want to keep a link to the up to date repos, but want to acknowledge that the student worked on this project as well.
+We add projects as submodules because we want to keep a link to the up to date repos, but want to acknowledge that the student worked on this project as well.
 
-git submodule add $(repository url) $(repo name)
-git submodule add https://github.com/elreydetoda/automated-kali automated-kali
+### How to add projects
+`git submodule add $(repository url) $(repo name)`
+`git submodule add https://github.com/elreydetoda/automated-kali automated-kali`
 
 ## Current Projects Structure
 
