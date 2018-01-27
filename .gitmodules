@@ -1,3 +1,9 @@
 [submodule "2017-2018/Fall/automated-kali"]
 	path = 2017-2018/Fall/automated-kali
 	url = https://github.com/elreydetoda/automated-kali
+[submodule "2017-2018/Fall/automated_kali-elreydetoda"]
+	path = 2017-2018/Fall/automated_kali-elreydetoda
+	url = https://github.com/elreydetoda/automated-kali
+[submodule "2017-2018/Fall/SpaceSecure-trvon"]
+	path = 2017-2018/Fall/SpaceSecure-trvon
+	url = https://github.com/trvon/SpaceSecure.git
