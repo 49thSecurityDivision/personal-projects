@@ -7,7 +7,7 @@ We add projects as submodules because we want to keep a link to the up to date r
 
 ### How to add projects
 
-Read the (CONTRIBUTE.md)[./CONTRIBUTE.md]
+Read the {CONTRIBUTE.md](./CONTRIBUTE.md)
 
 ## Current Projects Structure
 
