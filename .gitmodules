@@ -7,3 +7,6 @@
 [submodule "2017-2018/Fall/SpaceSecure-trvon"]
 	path = 2017-2018/Fall/SpaceSecure-trvon
 	url = https://github.com/trvon/SpaceSecure.git
+[submodule "vagrant_files-elreydetoda"]
+	path = 2017-2018/Spring/vagrant-files
+	url = https://github.com/elreydetoda/vagrant-files.git
