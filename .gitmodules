@@ -10,3 +10,6 @@
 [submodule "vagrant_files-elreydetoda"]
 	path = 2017-2018/Spring/vagrant-files
 	url = https://github.com/elreydetoda/vagrant-files.git
+[submodule "2017-2018/Spring/vagrant_files-elreydetoda"]
+	path = 2017-2018/Spring/vagrant_files-elreydetoda
+	url = https://github.com/elreydetoda/vagrant-files.git
